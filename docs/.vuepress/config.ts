@@ -93,7 +93,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: '运维',
         link: '/yunwei/',
         items: [
-          { text: 'mysql', link: '/pages/fc35a4/' },
+          { text: 'mysql', link: '/yunwei/mysql/' },
         ],
       },
       {
