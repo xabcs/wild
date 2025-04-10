@@ -183,7 +183,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: 'https://jsd.cdn.zzko.cn/gh/xabcs/image_store/blog/20200103123203.jpg',
+      avatar: 'https://cdn.jsdelivr.net/gh/xabcs/picx-images-hosting@master/20250410/4087996879.60uffrhqgc.webp',
       name: '小龙龟',
       slogan: '前端界的小学生',
     },
