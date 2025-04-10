@@ -25,7 +25,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       description: '专注运维学习与总结。JavaScript,js,ES6,TypeScript,vue,React,python,css3,html5,Node,git,github等技术文章。',
     }
   },
-  base: '/wild/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
+  base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件），如果你在github上使用了自定义域名，则你需要将它设置成空字符串 '' 来指向仓库的根目录。
+
 
   // 主题配置
   themeConfig: {
