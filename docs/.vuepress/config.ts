@@ -95,6 +95,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         link: '/yunwei/',
         items: [
           { text: 'mysql', link: '/yunwei/mysql/' },
+          { text: 'redis', link: '/yunwei/redis/' },
+          { text: 'k8s', link: '/yunwei/k8s/' },
         ],
       },
       {
